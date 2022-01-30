@@ -4,6 +4,7 @@
 
 
 # Visual Studio 2022 にて変更
+This is my first TypeScript SAMPLE
 
 # Cloud9にて変更
 
