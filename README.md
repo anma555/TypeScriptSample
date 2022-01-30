@@ -1,6 +1,7 @@
 # TypeScriptSample
 書籍「TypeScript実践マスター」にて
-はじめてのサンプルを登録します。
+はじめてのサンプルを登録します。(Visual Studio Code)
+
 
 # Visual Studio 2022 にて変更
 
