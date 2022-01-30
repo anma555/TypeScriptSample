@@ -1,2 +1,3 @@
-var message = "Hello!";
+"use strict";
+let message = "Hello!";
 console.info(message);
